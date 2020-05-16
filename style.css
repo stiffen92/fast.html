@@ -1,0 +1,26 @@
+.purple-color{
+    color: #8845f4;
+}
+.body{
+ font-family:sans-serif;
+ color:#777777;
+ line-height:24px;
+}
+.primary-btn{
+ color:black;
+ background:#8845f4;
+ padding:2px 4px 2px 4px;
+ border-radius:10px;
+ text-decoration:;
+}
+ h1{
+  font-size:2.0em;
+  }
+ half-width{
+ width:50%;
+ float:left;
+ }
+.container{
+ padding-left:15%;
+ display:inline-blocks;
+ }
